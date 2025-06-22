@@ -1,0 +1,109 @@
+inurl:id=
+inurl:page=
+inurl:cat=
+inurl:category=
+inurl:product=
+inurl:view=
+inurl:user=
+inurl:account=
+inurl:file=
+inurl:document=
+inurl:item=
+inurl:news=
+inurl:article=
+inurl:id=1
+inurl:id='
+inurl:pid=1
+inurl:pid='
+inurl:uid=1
+inurl:uid='
+inurl:num=1
+inurl:num='
+inurl:page=1
+inurl:page='
+inurl:item=1
+inurl:item='
+filetype:php
+ext:php
+filetype:asp
+ext:asp
+filetype:aspx
+ext:aspx
+filetype:jsp
+ext:jsp
+filetype:cfm
+ext:cfm
+filetype:pl
+ext:pl
+filetype:cgi
+ext:cgi
+filetype:admin
+ext:admin
+filetype:login
+ext:login
+filetype:wp-admin
+ext:wp-admin
+filetype:administrator
+ext:administrator
+filetype:ini
+ext:ini
+filetype:conf
+ext:conf
+filetype:config
+ext:config
+filetype:bak
+ext:bak
+filetype:old
+ext:old
+filetype:temp
+ext:temp
+site:.edu.gh inurl:index.php?id=
+site:.edu.gh inurl:login.php
+site:.gov.gh inurl:index.php?id=
+site:.gov.gh inurl:login.php
+site:.com.gh inurl:index.php?id=
+site:.com.gh inurl:login.php
+site:.edu.ng inurl:index.php?id=
+site:.edu.ng inurl:login.php
+site:.gov.ng inurl:index.php?id=
+site:.gov.ng inurl:login.php
+site:.com.ng inurl:index.php?id=
+site:.com.ng inurl:login.php
+site:.edu.ke inurl:index.php?id=
+site:.edu.ke inurl:login.php
+site:.go.ke inurl:index.php?id=
+site:.go.ke inurl:login.php
+site:.co.ke inurl:index.php?id=
+site:.co.ke inurl:login.php
+site:.ac.za inurl:index.php?id=
+site:.ac.za inurl:login.php
+site:.gov.za inurl:index.php?id=
+site:.gov.za inurl:login.php
+site:.co.za inurl:index.php?id=
+site:.co.za inurl:login.php
+site:.edu.in inurl:index.php?id=
+site:.edu.in inurl:login.php
+site:.gov.in inurl:index.php?id=
+site:.gov.in inurl:login.php
+site:.ac.in inurl:index.php?id=
+site:.ac.in inurl:login.php
+site:.edu.br inurl:index.php?id=
+site:.edu.br inurl:login.php
+site:.gov.br inurl:index.php?id=
+site:.gov.br inurl:login.php
+site:.com.br inurl:index.php?id=
+site:.com.br inurl:login.php
+inurl:wp-content
+inurl:wp-includes
+inurl:wp-admin
+inurl:components/com_
+inurl:templates/
+inurl:sites/default/files
+inurl:?q=user/password
+inurl:index.php?id=
+inurl:news.php?id=
+inurl:article.php?id=
+inurl:include.php?file=
+inurl:page.php?file=
+inurl:admin/login.php
+inurl:admin/index.php
