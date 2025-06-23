@@ -1,7 +1,8 @@
 # SQLiScannerGUI
 SQL Injection Scanner Pro Advanced Web Vulnerability Detection Tool  
 
-Overview: 
+Overview:
+
 SQL Injection Scanner Pro is a sophisticated security assessment tool designed to identify SQL injection vulnerabilities in web applications. Combining automated scanning with comprehensive reporting, this tool helps security professionals and developers uncover database security flaws before attackers can exploit them.  
 
 Key Features:  
