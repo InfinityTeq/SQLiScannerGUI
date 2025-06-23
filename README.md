@@ -14,10 +14,15 @@ Technical Specifications:
 Platform: Windows/macOS/Linux (Python 3.8+)  Output Formats: TXT, HTML  Scan Modes: Fast (surface checks), Deep (full parameter testing)  Supported Databases: MySQL, MSSQL, Oracle, PostgreSQL  
 
 Use Cases: 
+
 ✔ Web application penetration testing 
 ✔ Security hardening assessments 
 ✔ Educational/research purposes 
-✔ Vulnerability monitoring  Ethical Notice: This tool is intended for authorized security testing only. Always obtain proper permissions before scanning any website or application
+✔ Vulnerability monitoring  
+
+Ethical Notice: 
+
+This tool is intended for authorized security testing only. Always obtain proper permissions before scanning any website or application
 
 
 Installation and Run:
